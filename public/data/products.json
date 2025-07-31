@@ -1,0 +1,799 @@
+[
+  {
+    "id": 1,
+    "name": "Bed Room Lamps",
+    "price": 10000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tall Table Lamps",
+    "price": 25000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Decoration Light",
+    "price": 45000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Standard Floor Lamp",
+    "price": 60000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Floor Light",
+    "price": 30000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tall Lamp",
+    "price": 5000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp3.jpg"
+  },
+
+  {
+    "id": 7,
+    "name": "floor lampshade",
+    "price": 10000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp4.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Floor Standing Lamps",
+    "price": 25000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp5.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tall Floor Lamps",
+    "price": 45000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp6.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Upright Lamps",
+    "price": 60000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp7.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Cordless Lamps Battery Operated",
+    "price": 30000,
+    "category": "LED Light",
+    "image": "/images/products/led light 1.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Cordless Battery Table Lamp",
+    "price": 5000,
+    "category": "LED Light",
+    "image": "/images/products/led light2.jpg"
+  },
+
+   {
+    "id": 13,
+    "name": "Cordless Table Lamp Out Door",
+    "price": 5000,
+    "category": "LED Light",
+    "image": "/images/products/led light3.jpg"
+  },
+
+  {
+    "id": 14,
+    "name": "Long Ceiling Rose For Pendant Lamp",
+    "price": 10000,
+    "category": "Parts & Spares",
+    "image": "/images/products/parts and spares 2.jpg"
+  },
+
+  {
+    "id": 15,
+    "name": "Round Pendant Ceiling Rose Fixture",
+    "price": 25000,
+    "category": "Parts & Spares",
+    "image": "/images/products/parts and spares 3.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Lampshade Manufacturers",
+    "price": 45000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp4.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Bedside Light",
+    "price": 60000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp5.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Bed side Table Lamp",
+    "price": 30000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp6.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Lamp Factory",
+    "price": 5000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp7.jpg"
+  },
+
+  {
+    "id": 20,
+    "name": "Lamp shades supplies",
+    "price": 25000,
+    "category": "Parts & Spares",
+    "image": "/images/products/parts and spares4.jpg"
+  },
+  {
+    "id": 21,
+    "name": "DIY Lamp Pole",
+    "price": 45000,
+    "category": "Parts & Spares",
+    "image": "/images/products/parts and spares1.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Round Canopy for Single pendant",
+    "price": 60000,
+    "category": "Parts & Spares",
+    "image": "/images/products/parts and spares5.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Long Canopy For Pendant Lamp",
+    "price": 30000,
+    "category": "Parts & Spares",
+    "image": "/images/products/parts and spares6.jpg"
+  },
+  {
+    "id": 24,
+    "name": "D125Z Led Bulb Manufacturing",
+    "price": 5000,
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb1.jpg"
+  },
+
+  
+    {
+    "id": 25,
+    "name": "T45 Led Bulb Light Bulb",
+    "price": 25000,
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb2.jpg"
+  },
+  {
+    "id": 26,
+    "name": "T30 Led Bulb Light Bulb suppliers",
+    "price": 45000,
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb3.jpg"
+  },
+  {
+    "id": 27,
+    "name": "G80 Led Bulb",
+    "price": 60000,
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb4.jpg"
+  },
+  {
+    "id": 28,
+    "name": "St64 Led Bulb",
+    "price": 30000,
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb5.jpg"
+  },
+  {
+    "id": 29,
+    "name": "S165 Led Bulb",
+    "price": 5000,
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb6.jpg"
+  },
+
+  {
+    "id": 30,
+    "name": "G125 Led Bulb",
+    "price": 30000,
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb7.jpg"
+  },
+  {
+    "id": 31,
+    "name": "G95 Led Bulb",
+    "price": 5000,
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb8.jpg"
+  },
+
+  
+    {
+    "id": 32,
+    "name": "C35 Led Bulb",
+    "price": 25000,
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb9.jpg"
+  },
+  {
+    "id": 33,
+    "name": "A60 Led Bulb",
+    "price": 45000,
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb3.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Wall Lamp Decor",
+    "price": 60000,
+    "category": "Wall Lamps",
+    "image": "/images/products/wall lamp1.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Lampe De Chevet Petite",
+    "price": 30000,
+    "category": "Wall Lamps",
+    "image": "/images/products/wall lamp3.png"
+  },
+  {
+    "id": 36,
+    "name": "Lapen Obi",
+    "price": 5000,
+    "category": "Wall Lamps",
+    "image": "/images/products/wall lamp2.png"
+  },
+
+   {
+    "id": 37,
+    "name": "Living Room Lights",
+    "price": 30000,
+    "category": "Wall Lamps",
+    "image": "/images/products/wall lamp4.png"
+  },
+  {
+    "id": 38,
+    "name": "Lighting stores",
+    "price": 5000,
+    "category": "Wall Lamps",
+    "image": "/images/products/wall lamp5.png"
+  },
+
+  
+    {
+    "id": 39,
+    "name": "Industrial Pendant Lighting",
+    "price": 25000,
+    "category": "Wall Lamps",
+    "image": "/images/products/wall lamp6.png"
+  },
+  {
+    "id": 40,
+    "name": "Trendy Lighting",
+    "price": 45000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp8.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Lighting products company",
+    "price": 60000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp9.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Lamp Shade Maker",
+    "price": 30000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp10.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Lampe",
+    "price": 5000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp11.jpg"
+  },
+
+  
+   {
+    "id": 44,
+    "name": "Trendy Lightings",
+    "price": 5000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp12.jpg"
+  },
+
+  
+    {
+    "id": 45,
+    "name": "The bedside lamp",
+    "price": 25000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp13.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Stehleuchten",
+    "price": 45000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp14.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Tall Floor Standing Lamps",
+    "price": 60000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp15.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Floor Lamps For Home Decoration",
+    "price": 30000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp16.jpg"
+  },
+  {
+    "id":49,
+    "name": "Stand Lamp",
+    "price": 5000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp17.jpg"
+  },
+
+   {
+    "id": 50,
+    "name": "Floor Lamps For Deco",
+    "price": 30000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp18.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Floor Lamp",
+    "price": 5000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp19.jpg"
+  },
+
+  
+    {
+    "id": 52,
+    "name": "Floor Lamp Stand",
+    "price": 25000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp20.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Desighner Lampen",
+    "price": 45000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp21.jpg"
+  },
+  {
+    "id": 54,
+    "name": "A floor lamp",
+    "price": 60000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp22.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Floor Stand Light",
+    "price": 30000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp23.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Floor Lamp for Living Room",
+    "price": 5000,
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp24.jpg"
+  },
+
+  
+  {
+    "id": 57,
+    "name": "Hanging Lights",
+    "price": 45000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling1.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Lampe In Kuche",
+    "price": 60000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling2.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Lampen Store",
+    "price": 30000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling3.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Lighting For Living Room",
+    "price": 5000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling4.jpg"
+  },
+
+  
+   {
+    "id": 61,
+    "name": "Lampen Wohnzimmer",
+    "price": 5000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling5.jpg"
+  },
+
+  
+    {
+    "id": 62,
+    "name": "Ceiling Light",
+    "price": 25000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling6.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Hanging Lights For Dinning Table",
+    "price": 45000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling7.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Dinning Table Pendant Lighting",
+    "price": 60000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling8.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Home Decor Lighting",
+    "price": 30000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling9.jpg"
+  },
+  {
+    "id":66,
+    "name": "Living Room Lamps",
+    "price": 5000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling10.jpg"
+  },
+
+   {
+    "id": 67,
+    "name": "Lighting stores",
+    "price": 30000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling11.jpg"
+  },
+  {
+    "id": 68,
+    "name": "China Lamps",
+    "price": 5000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling12.jpg"
+  },
+
+  
+    {
+    "id": 69,
+    "name": "Lighting Catalogue",
+    "price": 25000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling13.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Pendant Lights",
+    "price": 45000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling14.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Decken Pendelleuchte",
+    "price": 60000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling15.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Pendant Decor Lighting",
+    "price": 30000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling16.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Pendant Lights",
+    "price": 5000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling17.jpg"
+  },
+
+  {
+    "id": 74,
+    "name": "Rattan Pendant China  Lighting Manufacturer",
+    "price": 5000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling18.jpg"
+  },
+
+  
+   {
+    "id": 75,
+    "name": "Ceiling Light Fittings",
+    "price": 5000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling19.jpg"
+  },
+
+  
+    {
+    "id": 76,
+    "name": "Pendant Lighting Producers",
+    "price": 25000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling20.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Ceiling Light Pendant",
+    "price": 45000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling21.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Ceiling Lamp",
+    "price": 60000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling22.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Decoration Light",
+    "price": 30000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling23.jpg"
+  },
+  {
+    "id":80,
+    "name": "Lighting Decorative",
+    "price": 5000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling24.jpg"
+  },
+
+   {
+    "id": 81,
+    "name": "LampShade Frames Suppliers",
+    "price": 30000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp8.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Table Light",
+    "price": 5000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp9.jpg"
+  },
+
+  
+    {
+    "id": 83,
+    "name": "Decorative Lamps",
+    "price": 25000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp10.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Indoor Lighting Manufactures",
+    "price": 45000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp11.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Luminaire Manufactures",
+    "price": 60000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp12.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Modern Table Lamps",
+    "price": 30000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp13.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Lamp Manufactures",
+    "price": 5000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp14.jpg"
+  },
+
+  {
+    "id": 88,
+    "name": "Lamps Companies",
+    "price": 45000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp15.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Cool Table Lamp",
+    "price": 60000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp16.jpg"
+  },
+  {
+    "id":   90,
+    "name": "Small Table Lamp",
+    "price": 30000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp17.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Pendant Lights",
+    "price": 5000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling17.jpg"
+  },
+
+  {
+    "id": 74,
+    "name": "Rattan Pendant China  Lighting Manufacturer",
+    "price": 5000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling18.jpg"
+  },
+
+  
+   {
+    "id": 75,
+    "name": "Ceiling Light Fittings",
+    "price": 5000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling19.jpg"
+  },
+
+  
+    {
+    "id": 76,
+    "name": "Pendant Lighting Producers",
+    "price": 25000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling20.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Ceiling Light Pendant",
+    "price": 45000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling21.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Ceiling Lamp",
+    "price": 60000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling22.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Decoration Light",
+    "price": 30000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling23.jpg"
+  },
+  {
+    "id":80,
+    "name": "Lighting Decorative",
+    "price": 5000,
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/pendant and ceiling24.jpg"
+  },
+
+   {
+    "id": 81,
+    "name": "LampShade Frames Suppliers",
+    "price": 30000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp8.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Table Light",
+    "price": 5000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp9.jpg"
+  },
+
+  
+    {
+    "id": 83,
+    "name": "Decorative Lamps",
+    "price": 25000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp10.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Indoor Lighting Manufactures",
+    "price": 45000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp11.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Luminaire Manufactures",
+    "price": 60000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp12.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Modern Table Lamps",
+    "price": 30000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp13.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Lamp Manufactures",
+    "price": 5000,
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp14.jpg"
+  }
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+]
+
