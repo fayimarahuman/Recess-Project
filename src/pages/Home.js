@@ -108,16 +108,14 @@ const Home = () => {
             <button
               onClick={() =>
                 window.open(
-                  `https://wa.me/256700000000?text=I'm%20interested%20in%20${encodeURIComponent(
-                    product.name
-                  )}`,
+                  `https://wa.me/256753670268?text=...`,
                   "_blank"
                 )
               }
             >
               WhatsApp
             </button>
-            <button onClick={() => (window.location.href = "tel:+256700000000")}>
+            <button onClick={() => (window.location.href = "tel:+256753670268")}>
               Call
             </button>
           </div>

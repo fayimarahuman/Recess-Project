@@ -22,22 +22,22 @@ function Navbar() {
         
         {/* Contact Actions */}
         <li>
-          <a href="https://wa.me/256700000000" target="_blank" rel="noopener noreferrer" title="Chat on WhatsApp">
+          <a href="https://wa.me/256753670268" target="_blank" rel="noopener noreferrer" title="Chat on WhatsApp">
             <FaWhatsapp className="icon-contact" />
           </a>
         </li>
         <li>
-          <a href="sms:+256700000000" title="Send SMS">
+          <a href="sms:+256753670268" title="Send SMS">
             <FaSms className="icon-contact" />
           </a>
         </li>
         <li>
-          <a href="tel:+256700000000" title="Call Now">
+          <a href="tel:+256753670268" title="Call Now">
             <FaPhone className="icon-contact" />
           </a>
         </li>
         <li>
-          <a href="mailto:info@carolineways.com" title="Send Email">
+          <a href="fayimarahuman2002@gmail.com" title="Send Email">
             <FaEnvelope className="icon-contact" />
           </a>
         </li>

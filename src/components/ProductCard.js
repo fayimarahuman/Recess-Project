@@ -1,37 +1,32 @@
-import React from 'react';
-import '../styles/ProductCard.css';
+import React from "react";
+import "../styles/ProductCard.css";
 
 const ProductCard = ({ product }) => {
-  const { name, image } = product;
+  const handleWhatsApp = () => {
+    const phone = "256753670268"; // Replace with actual number
+    const message = `Hello, I'm interested in ${product.name}`;
+    window.open(`https://wa.me/${phone}?text=${encodeURIComponent(message)}`, "_blank");
+  };
 
-  const phoneNumber = "+256753670268"; // Replace with actual contact
-  const message = `Hello, I'm interested in your product: ${name}`;
+  const handleCall = () => {
+    const phone = "tel:+256753670268"; // Replace with actual number
+    window.open(phone, "_self");
+  };
 
   return (
     <div className="product-card">
-      <img src={image} alt={name} className="product-image" />
-      <h3 className="product-name">{name}</h3>
-
-      {/* Contact Options */}
+      <div className="image-wrapper">
+        <img src={product.image} alt={product.name} />
+      </div>
+      <h3>{product.name}</h3>
+      <p className="price">UGX {product.price?.toLocaleString()}</p>
       <div className="contact-buttons">
-        <a
-          href={`https://wa.me/${phoneNumber.replace('+', '')}?text=${encodeURIComponent(message)}`}
-          className="contact-btn whatsapp"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label={`Contact via WhatsApp about ${name}`}
-        >
+        <button className="btn contact-btn" onClick={handleWhatsApp}>
           WhatsApp
-        </a>
-
-        <a
-          href={`tel:${phoneNumber}`}
-          className="contact-btn call"
-          aria-label={`Call about ${name}`}
-          rel="noopener noreferrer"
-        >
+        </button>
+        <button className="btn contact-btn" onClick={handleCall}>
           Call
-        </a>
+        </button>
       </div>
     </div>
   );
